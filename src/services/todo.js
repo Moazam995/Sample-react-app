@@ -8,7 +8,7 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'Best Javascript General Knowledge for Beginners',
+            text: 'Javascript Knowledge ',
             completed: false
         },
         {

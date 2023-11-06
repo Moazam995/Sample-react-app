@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttodoapp-dev-132958-authRole",
+      "UnauthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-dev-132958-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-dev-132958-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reacttodoapp-dev-132958-deployment",
+      "UnauthRoleName": "amplify-reacttodoapp-dev-132958-unauthRole",
+      "StackName": "amplify-reacttodoapp-dev-132958",
+      "StackId": "arn:aws:cloudformation:us-east-1:904301695556:stack/amplify-reacttodoapp-dev-132958/ae021680-7c7e-11ee-92cc-0a03ec245cd3",
+      "AmplifyAppId": "d321yzr4eeyoo9"
+    }
+  },
+  "stage": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttodoapp-stage-135940-authRole",
+      "UnauthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-stage-135940-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-stage-135940-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reacttodoapp-stage-135940-deployment",
+      "UnauthRoleName": "amplify-reacttodoapp-stage-135940-unauthRole",
+      "StackName": "amplify-reacttodoapp-stage-135940",
+      "StackId": "arn:aws:cloudformation:us-east-1:904301695556:stack/amplify-reacttodoapp-stage-135940/d4256fc0-7c82-11ee-97a7-0abd05927983",
+      "AmplifyAppId": "d321yzr4eeyoo9"
+    }
+  },
+  "develpm": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttodoapp-develpm-142322-authRole",
+      "UnauthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-develpm-142322-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::904301695556:role/amplify-reacttodoapp-develpm-142322-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reacttodoapp-develpm-142322-deployment",
+      "UnauthRoleName": "amplify-reacttodoapp-develpm-142322-unauthRole",
+      "StackName": "amplify-reacttodoapp-develpm-142322",
+      "StackId": "arn:aws:cloudformation:us-east-1:904301695556:stack/amplify-reacttodoapp-develpm-142322/2394f2d0-7c86-11ee-b0bb-0ec73fbb2f7f",
+      "AmplifyAppId": "d1x276vwzji92h"
+    }
+  }
+}

@@ -8,7 +8,7 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'Javascript Knowledge ',
+            text: 'Knowledged',
             completed: false
         },
         {

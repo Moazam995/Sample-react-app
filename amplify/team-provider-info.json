@@ -37,5 +37,18 @@
       "StackId": "arn:aws:cloudformation:us-east-1:904301695556:stack/amplify-reacttodoapp-develpm-142322/2394f2d0-7c86-11ee-b0bb-0ec73fbb2f7f",
       "AmplifyAppId": "d1x276vwzji92h"
     }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttodoapp-prod-232640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::433532508884:role/amplify-reacttodoapp-prod-232640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::433532508884:role/amplify-reacttodoapp-prod-232640-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reacttodoapp-prod-232640-deployment",
+      "UnauthRoleName": "amplify-reacttodoapp-prod-232640-unauthRole",
+      "StackName": "amplify-reacttodoapp-prod-232640",
+      "StackId": "arn:aws:cloudformation:us-east-1:433532508884:stack/amplify-reacttodoapp-prod-232640/0a9223b0-7cd2-11ee-890a-124b6cb43e49",
+      "AmplifyAppId": "dg7u0szlrdekg"
+    }
   }
 }
